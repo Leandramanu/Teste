@@ -32,3 +32,4 @@ programa {
       escreva("\n melhor lucro: ", maiorLucro)
   }
 }
+//teste
